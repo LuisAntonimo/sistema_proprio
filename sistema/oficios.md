@@ -16,7 +16,7 @@
 - Sapateiro
 - Tecelão
 
-## Açouguiero
+## Açougueiro
 
 > Açougueiros trabalham com o corte de carne de aves, suínos, ovinos e demais animais oriundas de casas de abate ou caçadas de nobres. O tipo de carne vendida varia do local e clientela com poder aquisitivo o suficiente.
 > Como um Açougueiro você começa sua jornada com um cutelo (1d6 de dano) e 2d4 trocados.
